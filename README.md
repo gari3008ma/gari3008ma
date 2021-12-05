@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 26 year old Engineer from India.I am passionate about distributed systems and solving hard challenges.
+I am a Software Engineer from India.I am passionate about distributed systems and solving hard challenges.
 
 
 
