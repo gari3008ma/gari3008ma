@@ -3,7 +3,7 @@ I am a Software Engineer from India.I am passionate about distributed systems an
 
 
 
-**gari3008ma/gari3008ma** is a ✨ _special_ ✨ repository.
+**ScoobyDooby** is a ✨ _special_ ✨ repository.
 
 - 🔭 I’m currently working on building search experience for Ecommerce
 - 🤔 I’m looking for help with Learning on scaling microservices
